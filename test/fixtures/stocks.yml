@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ticker: MyString
+  name: MyString
+  last_price_decimal: MyString
+
+two:
+  ticker: MyString
+  name: MyString
+  last_price_decimal: MyString
